@@ -12,3 +12,4 @@ Tecnologias utilizadas:
 - RadixUI
 - React Native
 - TailwindCSS
+- Prisma
